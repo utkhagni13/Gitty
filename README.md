@@ -3,4 +3,5 @@ This repository contains the solutions to some problems from various online codi
 
 [Hackerrank](https://www.hackerrank.com/utkhagni13)
 
-Some challenges from the problem solving domain of hackerrank.com
+Some challenges from problem solving domain of hackerrank.com
+
